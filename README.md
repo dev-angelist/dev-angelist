@@ -32,9 +32,12 @@ Here are some ideas to get you started:
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> **About me**
 
 <picture> <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px ></picture>
+
+💻 Here you will find my notes on Cybersecurity, Pentesting, and articles on Computer Science and Technology. 📔
+
+✍️ Everything I learn from doing certifications, machines, and more, I will put here to explain the techniques and knowledge I have just acquired, with the aim of being able to help other people. 🙏
  
- 
- 🌱 I’m currently learning **Offensive Security, Web3, Azure**
+🌱 I’m currently learning **Offensive Security, Web3, Azure**
 
 💬 Ask me about **Cyber Security, Web3, IT in general... or anything [here](https://github.com/dev-angelist/dev-angelist/issues)**
 
@@ -44,18 +47,28 @@ Here are some ideas to get you started:
 
 
  </div>
- 
+ <br/>
 <div align="center"> 
   <a href="mailto:dev-angelist@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-333333?style=for-the-badge&logo=protonmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/ProtonMail-333333?style=for-the-badge&logo=Protonmail&logoColor=red" />
   </a>
   <a href="https://medium.com/@dev-angelist" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000010?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
   </a>
   <a href="https://dev-angelist.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a><br/>
+   <a href="https://dev-angelist.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Switch To Shell Version-000000?style=for-the-badge&logo=powershell&logoColor=_blank" target="_blank" />
   </a>
+
+
 </div>
+</br>
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/devangelist.png" alt="TryHackMe">
+</a><p>
+</br>
 
  <hr/>
 
@@ -63,9 +76,11 @@ Here are some ideas to get you started:
     <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22"> Languages-Frameworks-Tools</h2>
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,azure,linux,windows" />
     <img src="https://skillicons.dev/icons?i=python,c,java,mysql" /><br>
+
 </div>
 
 <br/>
+
 <hr/>
 
 <div align="center">
@@ -80,7 +95,7 @@ Here are some ideas to get you started:
 <hr/>
 
 <div align=center>
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats </h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> GitHub Stats </h2>
 
 
 <br/><br/>
@@ -88,15 +103,11 @@ Here are some ideas to get you started:
   
 </div>
 
-<br/><br/>
+<br/>
 
 <hr/>
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/devangelist.png" alt="TryHackMe">
-      </a><p>
-
-
+ ![snake animation](https://github.com/dev-angelist/dev-angelist/blob/output/github-contribution-grid-snake2.svg)
 
 
 <br/>
