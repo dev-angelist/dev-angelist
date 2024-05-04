@@ -65,7 +65,9 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
+  
   ![snake animation](https://github.com/dev-angelist/dev-angelist/blob/output/github-contribution-grid-snake2.svg)
+  
   <br/><br/><br/>
 </div>
 
@@ -90,3 +92,5 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
+
+  ![snake animation](https://github.com/dev-angelist/dev-angelist/blob/output/github-contribution-grid-snake2.svg)
