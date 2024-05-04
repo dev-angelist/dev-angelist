@@ -1,37 +1,16 @@
-<!--
-**dev-angelist/dev-angelist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dev-angelist.dev-angelist" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dev-angelist!;" />
 </h1>
 
-
-
-
-
 <br/>
 
 <div align="center">
 
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> **About me**
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px align="center"></picture> **About me**
 
-<picture> <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px ></picture>
+<picture> <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px ></picture>
 
 💻 Here you will find my notes on Cybersecurity, Pentesting, and articles on Computer Science and Technology. 📔
 
@@ -42,8 +21,6 @@ Here are some ideas to get you started:
 💬 Ask me about **Cyber Security, Web3, IT in general... or anything [here](https://github.com/dev-angelist/dev-angelist/issues)**
 
 ⚡ Fun fact **Capture The Flags (CTF) Challenges**
-
-
 
 
  </div>
@@ -84,12 +61,10 @@ Here are some ideas to get you started:
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  
-  ![snake animation](https://github.com/dev-angelist/dev-angelist/blob/output/github-contribution-grid-snake2.svg)
-  
-  <br/><br/><br/>
+  <h2>👨‍💻 My Contributions 🙏</h2>
+  <br>  
+   ![Snake animation](https://raw.githubusercontent.com/dev-angelist/dev-angelist/output/github-contribution-grid-snake-dark.svg)
+  <br/><br/>
 </div>
 
 <hr/>
@@ -107,19 +82,8 @@ Here are some ideas to get you started:
 
 <hr/>
 
- ![snake animation](https://github.com/dev-angelist/dev-angelist/blob/output/github-contribution-grid-snake2.svg)
-
-
-<br/>
-
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://buymeacoffee.com/devangelist' target='_blank'><img height='74' style='border:0px;height:74px;' src='https://miro.medium.com/v2/resize:fit:1400/1*VJdus0nKuy1uNoByh5BN3w.png' border='0' alt='Buy Me a Coffee' /></a>
 </div>
 
 <br/>
-
-  ![snake animation](https://github.com/dev-angelist/dev-angelist/blob/output/github-contribution-grid-snake2.svg)
-
-  ![snake gif](https://github.com/dev-angelist/dev-angelist/blob/output/github-contribution-grid-snake.gif)
-
-  ![Snake animation](https://raw.githubusercontent.com/dev-angelist/dev-angelist/output/github-contribution-grid-snake-dark.svg)
