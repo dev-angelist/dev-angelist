@@ -34,11 +34,14 @@
   </a>
   <a href="https://dev-angelist.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a><br/>
+  </a>
+   <a href="https://twitter.com/dev4ngelist" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>  
+    <br/>
    <a href="https://dev-angelist.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Switch To Shell Version-000000?style=for-the-badge&logo=powershell&logoColor=_blank" target="_blank" />
   </a>
-
 
 </div>
 </br>
@@ -62,8 +65,10 @@
 
 <div align="center">
   <h2>👨‍💻 My Contributions 🙏</h2>
-  <br>  
+  <br>
+    
    ![Snake animation](https://raw.githubusercontent.com/dev-angelist/dev-angelist/output/github-contribution-grid-snake-dark.svg)
+  
   <br/><br/>
 </div>
 
@@ -77,9 +82,7 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-angelist&theme=dark)](https://git.io/streak-stats)
   
 </div>
-
 <br/>
-
 <hr/>
 
 <div align="center">
