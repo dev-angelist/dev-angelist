@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **myself**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Offensive Security, Web3, Azure**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/dev-angelist/dev-angelist/issues)**
+💬 Ask me about **Cyber Security, Web3, IT in general... or anything [here](https://github.com/dev-angelist/dev-angelist/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Capture The Flags (CTF) Challenges**
 
  </div>
  
@@ -65,8 +65,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dev-angelist/dev-angelist/output/github-contribution-grid-snake.svg" />
-  
+  ![snake animation](https://github.com/dev-angelist/dev-angelist/blob/output/github-contribution-grid-snake2.svg)
   <br/><br/><br/>
 </div>
 
