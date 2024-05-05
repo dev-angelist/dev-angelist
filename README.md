@@ -12,16 +12,18 @@
 
 <picture> <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px ></picture>
 
-💻 Here you will find my notes on Cybersecurity, Pentesting, and articles on Computer Science and Technology. 📔
+💻 Here you will find my projects and notes on Cybersecurity, Pentesting, and Technology in general 📔
 
-✍️ Everything I learn from doing certifications, machines, and more, I will put here to explain the techniques and knowledge I have just acquired, with the aim of being able to help other people. 🙏
+✍️ I’m documenting what I learn by blogging [here](https://dev-angelist.gitbook.io),
+with the aim of being able to help other people 🙏
  
-🌱 I’m currently learning **Offensive Security, Web3, Azure**
+🌱 I’m currently learning **Offensive Security, Web3, Azure** 📚
 
-💬 Ask me about **Cyber Security, Web3, IT in general... or anything [here](https://github.com/dev-angelist/dev-angelist/issues)**
+💬 Ask me about **Cyber Security, Web3, IT in general... or anything [here](https://github.com/dev-angelist/dev-angelist/issues)** ℹ️
 
-⚡ Fun fact **Capture The Flags (CTF) Challenges**
+✒️ I enjoy writing **IT articles** on [Medium](https://medium.com/@dev-angelist) 📝
 
+⚡ Fun fact **Capture The Flags (CTF) Challenges** 🎯
 
  </div>
  <br/>
@@ -33,10 +35,10 @@
     <img src="https://img.shields.io/badge/Medium-000010?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
   </a>
   <a href="https://dev-angelist.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
    <a href="https://twitter.com/dev4ngelist" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>  
     <br/>
    <a href="https://dev-angelist.github.io/" target="_blank">
@@ -53,7 +55,7 @@
  <hr/>
 
 <div align="center">
-    <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22"> Languages-Frameworks-Tools</h2>
+    <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22"> Languages-Frameworks-Tools 🛠️</h2><br/><br/>
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,azure,linux,windows" />
     <img src="https://skillicons.dev/icons?i=python,c,java,mysql" /><br>
 
@@ -71,18 +73,21 @@
   
   <br/><br/>
 </div>
-
 <hr/>
 
 <div align=center>
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> GitHub Stats </h2>
-
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> GitHub Stats 📊</h2>
 
 <br/><br/>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-angelist&theme=dark)](https://git.io/streak-stats)
-  
+![](https://github-profile-trophy.vercel.app/?username=dev-angelist&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) <br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=dev-angelist&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dev-angelist&theme=tokyonight&hide_border=false)
+![](https://github-contributor-stats.vercel.app/api?username=dev-angelist&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-angelist&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 <br/>
+
 <hr/>
 
 <div align="center">
