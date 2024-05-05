@@ -1,4 +1,13 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5Bdev-angelist%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;dev-angelist%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
+
+&nbsp;
+<!--💬GREETINGSTITLE / FONTS: https://www.thefancytext.com/ and then paste on 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=27F76A&width=360&lines=%E2%96%91A%E2%96%91C%E2%96%91C%E2%96%91E%E2%96%91S%E2%96%91S%E2%96%91+%E2%96%91G%E2%96%91A%E2%96%91I%E2%96%91N%E2%96%91E%E2%96%91D%E2%96%91">
+  
+<br/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dev-angelist.dev-angelist" />
+<hr/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dev-angelist!;" />
@@ -23,7 +32,7 @@ with the aim of being able to help other people 🙏
 
 ✒️ I enjoy writing **IT articles** on [Medium](https://medium.com/@dev-angelist) 📝
 
-⚡ Fun fact **Capture The Flags (CTF) Challenges** 🎯
+⚡ Fun fact **Capture The Flags (CTF) Challenges** [see my Writeups](https://github.com/dev-angelist/Writeups-and-Walkthroughs)🎯
 
  </div>
  <br/>
@@ -82,8 +91,20 @@ with the aim of being able to help other people 🙏
 ![](https://github-profile-trophy.vercel.app/?username=dev-angelist&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) <br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=dev-angelist&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-angelist&theme=tokyonight&hide_border=false)
-![](https://github-contributor-stats.vercel.app/api?username=dev-angelist&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-angelist&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br/>
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-angelist/dev-angelist/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-angelist/dev-angelist/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dev-angelist/dev-angelist/output/github-contribution-grid-snake.svg" />
+</picture>
+  
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-angelist&theme=chartreuse-dark" width="100%">
+  
+
 
 </div>
 <br/>
