@@ -25,7 +25,9 @@
 
 ✍️ I’m documenting what I learn by blogging [here](https://dev-angelist.gitbook.io),
 with the aim of being able to help other people 🙏
- 
+
+🏅 [CEH Practical](https://dev-angelist.gitbook.io/practical-ethical-hacker-ceh-tools/) | [eCCPTv2](https://dev-angelist.gitbook.io/ecpptv2-ptp-notes) | [eJPTv2](https://dev-angelist.gitbook.io/ine-elearning-ejptv2-notes) | AZ-900 | NSE 1 2 3 🎖️
+
 🌱 I’m currently learning **Offensive Security, Web3, Azure** 📚
 
 💬 Ask me about **Cyber Security, Web3, IT in general... or anything [here](https://github.com/dev-angelist/dev-angelist/issues)** ℹ️
@@ -43,7 +45,7 @@ with the aim of being able to help other people 🙏
   <a href="https://medium.com/@dev-angelist" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000010?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
   </a>
-  <a href="https://dev-angelist.github.io" target="_blank">
+  <a href="https://dev-angelist.gitbook.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
    <a href="https://twitter.com/dev4ngelist" target="_blank">
@@ -53,7 +55,6 @@ with the aim of being able to help other people 🙏
    <a href="https://dev-angelist.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Switch To Shell Version-000000?style=for-the-badge&logo=powershell&logoColor=_blank" target="_blank" />
   </a>
-
 </div>
 </br>
 <p align="center">
@@ -91,10 +92,9 @@ with the aim of being able to help other people 🙏
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-angelist&theme=chartreuse-dark" width="100%"><br/><br/>
 ![](https://github-profile-trophy.vercel.app/?username=dev-angelist&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) <br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-angelist&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=dev-angelist&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-angelist&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-angelist&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 </div>
 <br/>
