@@ -88,22 +88,12 @@ with the aim of being able to help other people 🙏
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> GitHub Stats 📊</h2>
 
 <br/><br/>
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-angelist&theme=chartreuse-dark" width="100%"><br/><br/>
 ![](https://github-profile-trophy.vercel.app/?username=dev-angelist&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) <br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=dev-angelist&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-angelist&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-angelist&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br/>
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-angelist/dev-angelist/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-angelist/dev-angelist/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dev-angelist/dev-angelist/output/github-contribution-grid-snake.svg" />
-</picture>
-  
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-angelist&theme=chartreuse-dark" width="100%">
-  
 
 
 </div>
