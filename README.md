@@ -58,8 +58,10 @@ with the aim of being able to help other people 🙏
 </div>
 </br>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/devangelist.png" alt="TryHackMe">
-</a><p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/devangelist.png" alt="TryHackMe"></p>
+  
+ <!--- </br> [ ![devangelist](https://www.hackthebox.eu/badge/image/1554980)](https://www.hackthebox.eu/home/users/profile/1554980) --->
+ 
 </br>
 
  <hr/>
